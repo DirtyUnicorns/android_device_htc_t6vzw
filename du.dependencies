@@ -11,7 +11,7 @@
   },
   {
     "repository":  "DirtyUnicorns/android_kernel_htc_t6",
-    "target_path": "kernel/htc/msm8960",
+    "target_path": "kernel/htc/t6",
     "branch":      "lollipop-caf"
   },
   {
